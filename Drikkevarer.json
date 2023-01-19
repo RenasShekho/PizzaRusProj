@@ -1,0 +1,27 @@
+[
+  {
+    "ID": 1,
+    "Navn": " CocaCola",
+    "drikkePris": 30.0
+  },
+  {
+    "ID": 2,
+    "Navn": " Fanta",
+    "drikkePris": 30.0
+  },
+  {
+    "ID": 3,
+    "Navn": " Pepsi",
+    "drikkePris": 30.0
+  },
+  {
+    "ID": 4,
+    "Navn": " Pepsi Max",
+    "drikkePris": 30.0
+  },
+  {
+    "ID": 5,
+    "Navn": " CocaCola Zero",
+    "drikkePris": 30.0
+  }
+]

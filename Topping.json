@@ -1,0 +1,107 @@
+[
+  {
+    "ID": 0,
+    "Navn": "Tomatsauce",
+    "Toppings_Pris": 0.0
+  },
+  {
+    "ID": 1,
+    "Navn": "Ost",
+    "Toppings_Pris": 9.0
+  },
+  {
+    "ID": 2,
+    "Navn": "Oregano",
+    "Toppings_Pris": 0.0
+  },
+  {
+    "ID": 3,
+    "Navn": "Kebab",
+    "Toppings_Pris": 9.0
+  },
+  {
+    "ID": 4,
+    "Navn": "Pepperoni",
+    "Toppings_Pris": 9.0
+  },
+  {
+    "ID": 5,
+    "Navn": "Løg",
+    "Toppings_Pris": 4.5
+  },
+  {
+    "ID": 6,
+    "Navn": "Champignon",
+    "Toppings_Pris": 4.5
+  },
+  {
+    "ID": 7,
+    "Navn": "Jalapenos",
+    "Toppings_Pris": 4.5
+  },
+  {
+    "ID": 8,
+    "Navn": "Dressing",
+    "Toppings_Pris": 4.5
+  },
+  {
+    "ID": 9,
+    "Navn": "Skinke",
+    "Toppings_Pris": 9.0
+  },
+  {
+    "ID": 10,
+    "Navn": "Oksekød",
+    "Toppings_Pris": 9.0
+  },
+  {
+    "ID": 11,
+    "Navn": "Kylling",
+    "Toppings_Pris": 9.0
+  },
+  {
+    "ID": 12,
+    "Navn": "Pølser",
+    "Toppings_Pris": 9.0
+  },
+  {
+    "ID": 13,
+    "Navn": "Bacon",
+    "Toppings_Pris": 9.0
+  },
+  {
+    "ID": 14,
+    "Navn": "Peberfrugt",
+    "Toppings_Pris": 4.5
+  },
+  {
+    "ID": 15,
+    "Navn": "Oliven",
+    "Toppings_Pris": 4.5
+  },
+  {
+    "ID": 16,
+    "Navn": "Pommes Frites",
+    "Toppings_Pris": 4.5
+  },
+  {
+    "ID": 17,
+    "Navn": "Bearnaisesauce",
+    "Toppings_Pris": 4.5
+  },
+  {
+    "ID": 18,
+    "Navn": "Italiensk Salami",
+    "Toppings_Pris": 4.5
+  },
+  {
+    "ID": 19,
+    "Navn": "Ananas",
+    "Toppings_Pris": 4.5
+  },
+  {
+    "ID": 20,
+    "Navn": "Karrydressing",
+    "Toppings_Pris": 4.5
+  }
+]

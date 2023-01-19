@@ -1,0 +1,32 @@
+[
+  {
+    "ID": 1,
+    "Navn": " Doritos Chips",
+    "Beskrivelse": "170 g.",
+    "BasePris": 25.0
+  },
+  {
+    "ID": 2,
+    "Navn": " Snickers",
+    "Beskrivelse": "50 g.",
+    "BasePris": 15.0
+  },
+  {
+    "ID": 3,
+    "Navn": " Snickers",
+    "Beskrivelse": "5 stk.",
+    "BasePris": 60.0
+  },
+  {
+    "ID": 4,
+    "Navn": " Oreo",
+    "Beskrivelse": "154 g.",
+    "BasePris": 25.0
+  },
+  {
+    "ID": 5,
+    "Navn": " Marabou Mælkechokolade",
+    "Beskrivelse": "200 g.",
+    "BasePris": 45.0
+  }
+]
